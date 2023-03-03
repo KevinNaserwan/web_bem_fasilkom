@@ -88,6 +88,22 @@
         </section>
         <!-- End Call To Action Section -->
 
+        <!-- ======= Pojok Berita Section ======= -->
+        <section id="pojok-berita" class="pojok-berita">
+            <div class="container" data-aos="zoom-out">
+                <div class=" row justify-content-center">
+                    <div class=" text-center font-weight-bold">
+                        <h4>POJOK BERITA</h4>
+                        <div class=" justify-content-center">
+                            <img src="img/BarPojok.png" height="10">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+        <!-- End Pojok Berita Section -->
+
     </main>
     <!-- End #main -->
 
