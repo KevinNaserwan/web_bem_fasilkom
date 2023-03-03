@@ -13,7 +13,7 @@
             <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a href="index.html" class="active">Beranda</a></li>
+                    <li><a href="/beranda" class="active">Beranda</a></li>
                     <li><a href="about.html">Tentang Kami</a></li>
                     <li><a href="profil.html">Profil</a></li>
                     <li><a href="berita.html">Pojok Berita</a></li>
