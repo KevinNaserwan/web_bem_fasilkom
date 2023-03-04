@@ -14,8 +14,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/', function () {
-//     return view('freeuser/index');
-// });
+Route::get('/', function () {
+    return view('login/login');
+});
 
 Route::get('/beranda', [SessionController::class, 'beranda']);

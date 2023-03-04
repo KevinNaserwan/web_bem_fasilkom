@@ -99,31 +99,24 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
-                        <div class="card">
-                            <img src="img/card-berita.png" width="300" height="300" alt="">
-                        </div>
+                    <div class="col-lg-3 col-md-6 card-berita" data-aos="fade-up" data-aos-delay="100">
+                        <img src="img/card-berita.png" width="300" height="300" alt="">
                     </div> <!-- End Card Item -->
 
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
-                        <div class="card">
-                            <img src="img/card-berita.png" width="300" height="300" alt="">
+                    <div class="col-lg-3 col-md-6 card-berita" data-aos="fade-up" data-aos-delay="100">
+                        <img src="img/card-berita.png" width="300" height="300" alt="">
+                    </div> <!-- End Card Item -->
+                    <div class="col-lg-3 col-md-6 card-berita" data-aos="fade-up" data-aos-delay="100">
+                        <img src="img/card-berita.png" width="300" height="300" alt="">
+                        <div class="content">
+                            <h3>Fasilkom Esport Competition</h3>
                         </div>
                     </div> <!-- End Card Item -->
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
-                        <div class="card">
-                            <img src="img/card-berita.png" width="300" height="300" alt="">
-                            <div class="content">
-                                <h3>Fasilkom Esport Competition</h3>
-                            </div>
-                        </div>
-                    </div> <!-- End Card Item -->
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
-                        <div class="card">
-                            <img src="img/card-berita.png" width="300" height="300" alt="">
-                        </div>
+                    <div class="col-lg-3 col-md-6 card-berita" data-aos="fade-up" data-aos-delay="100">
+                        <img src="img/card-berita.png" width="300" height="300" alt="">
                     </div> <!-- End Card Item -->
                 </div>
+                <a class="cta-btn btn-pojok" href="#">Selengkapnya</a>
             </div>
 
         </section>

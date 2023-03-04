@@ -1438,7 +1438,7 @@ section {
 }
 
 #pojok-berita .card {
-    background-color: #378570;
+    /* background-color: #378570; */
     width: 100%;
     margin-top: 80px;
 }
@@ -1453,4 +1453,40 @@ section {
 
 #pojok-berita .content h3 {
     text-align: center;
+}
+
+#pojok-berita .card-berita {
+    margin-top: 60px;
+}
+
+#pojok-berita .content {
+    width: 270px;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+
+.pojok-berita .cta-btn {
+    padding: 1em 2em;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1.3px;
+    font-weight: 500;
+    color: #000;
+    background-color: #91bfac;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+}
+
+.pojok-berita .cta-btn:hover {
+    background-color: #23c483;
+    color: #fff;
+    transform: translateY(-7px);
+}
+
+#pojok-berita .btn-pojok {
+    margin-left: 600px;
 }
