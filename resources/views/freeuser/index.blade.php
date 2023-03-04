@@ -98,6 +98,31 @@
                             <img src="img/BarPojok.png" height="10">
                         </div>
                     </div>
+
+                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card">
+                            <img src="img/card-berita.png" width="300" height="300" alt="">
+                        </div>
+                    </div> <!-- End Card Item -->
+
+                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card">
+                            <img src="img/card-berita.png" width="300" height="300" alt="">
+                        </div>
+                    </div> <!-- End Card Item -->
+                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card">
+                            <img src="img/card-berita.png" width="300" height="300" alt="">
+                            <div class="content">
+                                <h3>Fasilkom Esport Competition</h3>
+                            </div>
+                        </div>
+                    </div> <!-- End Card Item -->
+                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card">
+                            <img src="img/card-berita.png" width="300" height="300" alt="">
+                        </div>
+                    </div> <!-- End Card Item -->
                 </div>
             </div>
 

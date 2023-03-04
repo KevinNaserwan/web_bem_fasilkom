@@ -1436,3 +1436,21 @@ section {
     color: #378570;
     margin-top: 70px;
 }
+
+#pojok-berita .card {
+    background-color: #378570;
+    width: 100%;
+    margin-top: 80px;
+}
+
+#pojok-berita .card-1 {
+    width: 25%;
+}
+
+#pojok-berita .content {
+    background-color: #1f4049;
+}
+
+#pojok-berita .content h3 {
+    text-align: center;
+}

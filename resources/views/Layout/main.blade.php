@@ -27,6 +27,8 @@
     <link href="vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
     <link href="vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
     <link href="vendor/aos/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="owlcarousel/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="owlcarousel/dist/assets/owl.theme.default.min.css">
 
     <!-- Template Main CSS File -->
     <link href="css/main.css" rel="stylesheet">
