@@ -188,6 +188,7 @@
         <section id="berita-terkini" class="berita-terkini">
             <div class="container" data-aos="zoom-out">
                 <div class=" row justify-content-center">
+                    <!-- Slider -->
                     <div class="col-lg-6 col-md-12 text-center mt-5 jurusan row" data-aos="fade-up" data-aos-delay="100">
                         <div class=" col-lg-6 col-md-6 text-center">
                             <img src="img/gambar-birokrasi.png" alt="" width="50" height="50">
@@ -196,6 +197,7 @@
                             <img src="img/gambar-birokrasi.png" alt="" width="50" height="50">
                         </div>
                     </div>
+                    <!-- End Slider -->
                     <div class="col-lg-6 col-md-12 text-center mt-5 jurusan" data-aos="fade-up" data-aos-delay="100">
                         <div class=" text-center font-weight-bold judul-birokrasi">
                             <h4>Birokrasi Terkini</h4>
