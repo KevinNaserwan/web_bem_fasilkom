@@ -1429,8 +1429,11 @@ section {
 /*--------------------------------------------------------------
 # Pojok Berita Section
 --------------------------------------------------------------*/
+.pojok-berita .judul-pojok {
+    margin-bottom: 80px;
+}
 
-.pojok-berita h4 {
+.pojok-berita .judul-pojok h4 {
     font-weight: 700;
     font-size: 30px;
     color: #378570;
@@ -1487,6 +1490,62 @@ section {
     transform: translateY(-7px);
 }
 
-#pojok-berita .btn-pojok {
-    margin-left: 600px;
+.pojok-berita .btn-pojok {
+    width: 10%;
+    margin-top: 120px;
+}
+
+.text-container-pojok {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+    padding: 270px 20px 20px 20px;
+    border-radius: 20px;
+    /* height: 470px; */
+    text-align: center;
+    width: 300px;
+    background: #265d4f;
+    margin: -270px 0px 0px 0px;
+    line-height: 29px;
+    font-size: 15px;
+}
+
+.text-container-pojok h3 {
+    margin: 20px 0px 10px 0px;
+    color: #f9bc60;
+    font-size: 20px;
+    font-weight: 900;
+}
+.text-container-pojok h4 {
+    color: #c5c5c5;
+    font-size: 18px;
+}
+.text-container-pojok p {
+    color: #c5c5c5;
+    font-size: 13px;
+}
+
+.img-container-pojok {
+    height: 100%;
+    width: 230px;
+    text-align: center;
+    overflow: hidden;
+    border-radius: 10px 10px 10px 10px;
+    display: inline-block;
+}
+
+.img-container-pojok img {
+    height: 100%;
+    width: 100%;
+}
+
+#pojok-berita .Ornament {
+    margin-left: 140px;
+}
+
+/*--------------------------------------------------------------
+# Birokrasi Terkini Section
+--------------------------------------------------------------*/
+.berita-terkini .judul-birokrasi h4 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #265d4f;
 }

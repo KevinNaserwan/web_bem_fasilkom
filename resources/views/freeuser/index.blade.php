@@ -92,36 +92,122 @@
         <section id="pojok-berita" class="pojok-berita">
             <div class="container" data-aos="zoom-out">
                 <div class=" row justify-content-center">
-                    <div class=" text-center font-weight-bold">
+                    <div class=" text-center font-weight-bold judul-pojok">
                         <h4>POJOK BERITA</h4>
                         <div class=" justify-content-center">
                             <img src="img/BarPojok.png" height="10">
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-6 card-berita" data-aos="fade-up" data-aos-delay="100">
-                        <img src="img/card-berita.png" width="300" height="300" alt="">
-                    </div> <!-- End Card Item -->
+                    <div class="col-lg-3 col-md-6 text-center mt-5 jurusan" data-aos="fade-up" data-aos-delay="100">
+                        <div class="a-box">
+                            <div class="img-container-pojok">
+                                <div class="img-inner">
+                                    <div class="inner-skew text-center">
+                                        <img src="img/card-berita.png">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-container-pojok">
+                                <h3>Fasilkom esports competition</h3>
+                            </div>
 
-                    <div class="col-lg-3 col-md-6 card-berita" data-aos="fade-up" data-aos-delay="100">
-                        <img src="img/card-berita.png" width="300" height="300" alt="">
-                    </div> <!-- End Card Item -->
-                    <div class="col-lg-3 col-md-6 card-berita" data-aos="fade-up" data-aos-delay="100">
-                        <img src="img/card-berita.png" width="300" height="300" alt="">
-                        <div class="content">
-                            <h3>Fasilkom Esport Competition</h3>
                         </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 text-center mt-5 jurusan" data-aos="fade-up" data-aos-delay="100">
+                        <div class="a-box">
+                            <div class="img-container-pojok">
+                                <div class="img-inner">
+                                    <div class="inner-skew text-center">
+                                        <img src="img/card-berita.png">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-container-pojok">
+                                <h3>Fasilkom esports competition</h3>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 text-center mt-5 jurusan" data-aos="fade-up" data-aos-delay="100">
+                        <div class="a-box">
+                            <div class="img-container-pojok">
+                                <div class="img-inner">
+                                    <div class="inner-skew text-center">
+                                        <img src="img/card-berita.png">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-container-pojok">
+                                <h3>Fasilkom esports competition</h3>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 text-center mt-5 jurusan" data-aos="fade-up" data-aos-delay="100">
+                        <div class="a-box">
+                            <div class="img-container-pojok">
+                                <div class="img-inner">
+                                    <div class="inner-skew text-center">
+                                        <img src="img/card-berita.png">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-container-pojok">
+                                <h3>Fasilkom esports competition</h3>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    {{-- <div class="col-lg-3 col-md-6 card-berita" data-aos="fade-up" data-aos-delay="100">
+                        <img src="img/card-berita.png" width="300" height="300" alt="">
+                    </div> <!-- End Card Item -->
+                    <div class="col-lg-3 col-md-6 card-berita" data-aos="fade-up" data-aos-delay="100">
+                        <a href=""><img src="img/card-berita.png" width="300" height="300" alt="">
+                            <div class="content">
+                                <h3>Fasilkom Esport Competition</h3>
+                            </div>
+                        </a>
                     </div> <!-- End Card Item -->
                     <div class="col-lg-3 col-md-6 card-berita" data-aos="fade-up" data-aos-delay="100">
                         <img src="img/card-berita.png" width="300" height="300" alt="">
-                    </div> <!-- End Card Item -->
+                    </div> <!-- End Card Item --> --}}
+                    <a class="cta-btn btn-pojok" href="#">Selengkapnya</a>
                 </div>
-                <a class="cta-btn btn-pojok" href="#">Selengkapnya</a>
             </div>
-
+            <div class="Ornament" data-aos="fade-up" data-aos-delay="100">
+                <img src="img/Ornament.png" alt="" width="170" height="170">
+            </div>
         </section>
         <!-- End Pojok Berita Section -->
 
+        <!-- ======= Birokrasi Terkini Section ======= -->
+        <section id="berita-terkini" class="berita-terkini">
+            <div class="container" data-aos="zoom-out">
+                <div class=" row justify-content-center">
+                    <div class="col-lg-6 col-md-12 text-center mt-5 jurusan row" data-aos="fade-up" data-aos-delay="100">
+                        <div class=" col-lg-6 col-md-6 text-center">
+                            <img src="img/gambar-birokrasi.png" alt="" width="50" height="50">
+                        </div>
+                        <div class=" col-lg-6 col-md-6 text-center">
+                            <img src="img/gambar-birokrasi.png" alt="" width="50" height="50">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 text-center mt-5 jurusan" data-aos="fade-up" data-aos-delay="100">
+                        <div class=" text-center font-weight-bold judul-birokrasi">
+                            <h4>Birokrasi Terkini</h4>
+                            <div class=" justify-content-center">
+                                <img src="img/BarPojok.png" height="10">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Birokrasi Terkini Section -->
     </main>
     <!-- End #main -->
 
