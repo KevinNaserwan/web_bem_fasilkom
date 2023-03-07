@@ -587,7 +587,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action {
-    background: linear-gradient(90deg, #265d4f 81.43%, #073440 126.88%);
+    background: linear-gradient(90deg, #fecc2a 81.43%, #faf2a1 126.88%);
     background-size: cover;
     padding: 50px 20px 0px 10px;
 }
@@ -602,7 +602,7 @@ section {
 }
 
 .call-to-action h3 {
-    color: #fbd69c;
+    color: #22162b;
     font-size: 28px;
     font-weight: 700;
     margin-bottom: 20px;
@@ -622,7 +622,7 @@ section {
     }
 }
 .call-to-action h4 {
-    color: #fff;
+    color: #000;
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 0px;
@@ -636,7 +636,7 @@ section {
     letter-spacing: 1.3px;
     font-weight: 500;
     color: #000;
-    background-color: #91bfac;
+    background-color: #ffeca6;
     border: none;
     border-radius: 4px;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
@@ -744,13 +744,13 @@ section {
     font-size: 24px;
     font-weight: 800;
     letter-spacing: 0.1em;
-    color: #378570;
+    color: #fecc2a;
 }
 
 .hero h3 {
     font-size: 34px;
     font-weight: 800;
-    color: #378570;
+    color: #fecc2a;
 }
 
 .hero img {

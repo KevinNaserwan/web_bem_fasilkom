@@ -53,9 +53,9 @@
             <div class="row gy-4 d-flex justify-content-between">
                 <div class="col-lg-7 order-2 order-lg-1 d-flex flex-column justify-content-center">
                     <h4 data-aos="fade-up">BEM KM FASILKOM UNSRI 2022</h4>
-                    <h2 data-aos="fade-up">KABINET ASKARA AKASIA</h2>
-                    <h3 data-aos="fade-up">#BertumbuhBerkaryaBersama</h3>
-                    <p data-aos="fade-up" data-aos-delay="100">Askara Akasia akan menjadi wadah kolaborasi yang Inklusif,
+                    <h2 data-aos="fade-up">KABINET CAKRA BASWARA</h2>
+                    <h3 data-aos="fade-up">#MenggapaiAsaCiptakanKarya</h3>
+                    <p data-aos="fade-up" data-aos-delay="100">Cakra Baswara akan menjadi wadah kolaborasi yang Inklusif,
                         Dedikatif, dan Progresif untuk kebermanfaatan bagi KM Fasilkom UNSRI.</p>
                 </div>
 
@@ -92,90 +92,7 @@
         <section id="pojok-berita" class="pojok-berita">
             <div class="container" data-aos="zoom-out">
                 <div class=" row justify-content-center">
-                    <div class=" text-center font-weight-bold judul-pojok">
-                        <h4>POJOK BERITA</h4>
-                        <div class=" justify-content-center">
-                            <img src="img/BarPojok.png" height="10">
-                        </div>
-                    </div>
 
-                    <div class="col-lg-3 col-md-6 text-center mt-5 jurusan" data-aos="fade-up" data-aos-delay="100">
-                        <div class="a-box">
-                            <div class="img-container-pojok">
-                                <div class="img-inner">
-                                    <div class="inner-skew text-center">
-                                        <img src="img/card-berita.png">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="text-container-pojok">
-                                <h3>Fasilkom esports competition</h3>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 text-center mt-5 jurusan" data-aos="fade-up" data-aos-delay="100">
-                        <div class="a-box">
-                            <div class="img-container-pojok">
-                                <div class="img-inner">
-                                    <div class="inner-skew text-center">
-                                        <img src="img/card-berita.png">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="text-container-pojok">
-                                <h3>Fasilkom esports competition</h3>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 text-center mt-5 jurusan" data-aos="fade-up" data-aos-delay="100">
-                        <div class="a-box">
-                            <div class="img-container-pojok">
-                                <div class="img-inner">
-                                    <div class="inner-skew text-center">
-                                        <img src="img/card-berita.png">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="text-container-pojok">
-                                <h3>Fasilkom esports competition</h3>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 text-center mt-5 jurusan" data-aos="fade-up" data-aos-delay="100">
-                        <div class="a-box">
-                            <div class="img-container-pojok">
-                                <div class="img-inner">
-                                    <div class="inner-skew text-center">
-                                        <img src="img/card-berita.png">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="text-container-pojok">
-                                <h3>Fasilkom esports competition</h3>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    {{-- <div class="col-lg-3 col-md-6 card-berita" data-aos="fade-up" data-aos-delay="100">
-                        <img src="img/card-berita.png" width="300" height="300" alt="">
-                    </div> <!-- End Card Item -->
-                    <div class="col-lg-3 col-md-6 card-berita" data-aos="fade-up" data-aos-delay="100">
-                        <a href=""><img src="img/card-berita.png" width="300" height="300" alt="">
-                            <div class="content">
-                                <h3>Fasilkom Esport Competition</h3>
-                            </div>
-                        </a>
-                    </div> <!-- End Card Item -->
-                    <div class="col-lg-3 col-md-6 card-berita" data-aos="fade-up" data-aos-delay="100">
-                        <img src="img/card-berita.png" width="300" height="300" alt="">
-                    </div> <!-- End Card Item --> --}}
-                    <a class="cta-btn btn-pojok" href="#">Selengkapnya</a>
                 </div>
             </div>
             <div class="Ornament" data-aos="fade-up" data-aos-delay="100">
