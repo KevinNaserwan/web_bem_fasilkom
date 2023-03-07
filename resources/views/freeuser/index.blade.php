@@ -95,8 +95,17 @@
 
                 </div>
             </div>
+            <div class="Ornament1" data-aos="fade-up" data-aos-delay="100">
+                <img src="img/Ornament.png" alt="" width="110" height="110">
+            </div>
+            <div class=" text-center font-weight-bold judul-birokrasi">
+                <h4>POJOK BERITA</h4>
+                <div class=" justify-content-center">
+                    <img src="img/BarPojok(2).png" height="10">
+                </div>
+            </div>
             <div class="Ornament" data-aos="fade-up" data-aos-delay="100">
-                <img src="img/Ornament.png" alt="" width="170" height="170">
+                <img src="img/Ornament.png" alt="" width="110" height="110">
             </div>
         </section>
         <!-- End Pojok Berita Section -->
