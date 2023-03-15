@@ -15,4 +15,9 @@ class SessionController extends Controller
     {
         return view("freeuser/index");
     }
+
+    function about()
+    {
+        return view("freeuser/about");
+    }
 }
