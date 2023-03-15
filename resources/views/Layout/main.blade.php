@@ -89,6 +89,8 @@
 <script src="vendor/swiper/swiper-bundle.min.js"></script>
 <script src="vendor/aos/aos.js"></script>
 <script src="vendor/php-email-form/validate.js"></script>
+<script src="node_modules/jquery/dist/jquery.min.js "></script>
+<script src="owlcarousel/dist/owl.carousel.min.js "></script>
 
 <!-- Template Main JS File -->
 <script src="js/main.js"></script>

@@ -20,4 +20,9 @@ class SessionController extends Controller
     {
         return view("freeuser/about");
     }
+
+    function berita()
+    {
+        return view("freeuser/pojokberita");
+    }
 }

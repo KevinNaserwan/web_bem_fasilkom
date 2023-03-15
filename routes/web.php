@@ -20,3 +20,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/beranda', [SessionController::class, 'beranda']);
 Route::get('/about', [SessionController::class, 'about']);
+Route::get('/berita', [SessionController::class, 'berita']);
