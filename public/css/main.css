@@ -1599,6 +1599,7 @@ section {
 #pojok-berita .berita-card3:hover {
     transform: scale(1.02);
 }
+
 /*--------------------------------------------------------------
 # Birokrasi Terkini Section
 --------------------------------------------------------------*/
@@ -1606,7 +1607,7 @@ section {
 .berita-terkini .judul-birokrasi h4 {
     font-size: 50px;
     font-weight: 700;
-    color: #265d4f;
+    color: #ebc754;
 }
 
 .berita-terkini .carousel {
@@ -1623,8 +1624,8 @@ section {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 250px;
-    height: 250px;
+    width: 280px;
+    height: 280px;
     border-radius: 50%;
     overflow: hidden;
     transition: all 300ms ease-in-out;
@@ -1685,8 +1686,8 @@ section {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     background-color: rgba(0, 0, 0, 1);
     border-radius: 50%;
     z-index: -99;
@@ -1704,4 +1705,29 @@ section {
     position: absolute;
     padding-top: 33px;
     margin-left: 708px;
+}
+
+/*--------------------------------------------------------------
+# Bem Apps Section
+--------------------------------------------------------------*/
+
+.bem-apps {
+    background-size: auto;
+    background-size: cover;
+    background-color: #22162b;
+}
+
+.bem-apps .bem h1 {
+    color: #fff;
+    font-size: 52px;
+    font-weight: 800;
+    font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+    position: absolute;
+    left: 466px;
+    top: -66px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
 }

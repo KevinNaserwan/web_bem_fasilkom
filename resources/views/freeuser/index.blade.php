@@ -176,7 +176,7 @@
                         <div class=" text-center font-weight-bold judul-birokrasi">
                             <h4>Birokrasi Terkini</h4>
                             <div class=" justify-content-center">
-                                <img src="img/BarPojok.png" height="10">
+                                <img src="img/BarBiro.png" height="10">
                             </div>
                         </div>
                     </div>
@@ -184,6 +184,22 @@
             </div>
         </section>
         <!-- End Birokrasi Terkini Section -->
+
+        <!-- ======= BEM Apps Section ======= -->
+        <section id="bem-apps" class="bem-apps">
+            <div class="container" data-aos="zoom-out">
+                <div class=" row justify-content-center">
+                    <div class="bem text-center font-weight-bold">
+                        <h1>BEM APPS</h1>
+                        <div class=" justify-content-center gambarbar">
+                            <img src="img/BarPojok.png" height="10">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- BEM Apps Terkini Section -->
+
     </main>
     <!-- End #main -->
 

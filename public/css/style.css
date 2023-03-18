@@ -66,10 +66,14 @@ h6 {
 }
 
 .berita-terkini {
-    padding: 200px 0 800px 0;
+    padding: 200px 0 600px 0;
     overflow: hidden;
 }
 
+.bem-apps {
+    padding: 200px 0 600px 0;
+    overflow: hidden;
+}
 section {
     padding: 150px 0;
     overflow: hidden;
