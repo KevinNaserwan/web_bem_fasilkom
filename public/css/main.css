@@ -589,6 +589,7 @@ section {
 .call-to-action {
     background: linear-gradient(90deg, #fecc2a 81.43%, #faf2a1 126.88%);
     background-size: cover;
+    margin-top: 150px;
     padding: 50px 20px 0px 10px;
 }
 
@@ -1435,6 +1436,169 @@ section {
     font-size: 35px;
 }
 
+#pojok-berita .Ornament1 img {
+    position: absolute;
+    margin-left: 1092px;
+    margin-top: -43px;
+}
+
+#pojok-berita .Ornament img {
+    position: absolute;
+    margin-left: -113px;
+    margin-top: 649px;
+}
+
+#pojok-berita .berita-card {
+    position: absolute;
+    left: -80px;
+    top: 160px;
+    width: 300px;
+    height: 492px;
+    border-radius: 10px;
+    background-color: #d9d9d9;
+    transition: 0.8s ease;
+}
+#pojok-berita .berita-card1 {
+    position: absolute;
+    left: 258px;
+    top: 160px;
+    width: 300px;
+    height: 492px;
+    border-radius: 10px;
+    background-color: #d9d9d9;
+    transition: 0.8s ease;
+}
+#pojok-berita .berita-card2 {
+    position: absolute;
+    left: 595px;
+    top: 160px;
+    width: 300px;
+    height: 492px;
+    border-radius: 10px;
+    background-color: #d9d9d9;
+    transition: 0.8s ease;
+}
+#pojok-berita .berita-card3 {
+    position: absolute;
+    left: 935px;
+    top: 160px;
+    width: 300px;
+    height: 492px;
+    border-radius: 10px;
+    background-color: #d9d9d9;
+    transition: 0.8s ease;
+}
+
+#pojok-berita .content {
+    position: absolute;
+    left: 0px;
+    top: 281px;
+    width: 300px;
+    height: 212px;
+    border-radius: 0 0 10px 10px;
+    background-color: #22162b;
+}
+
+#pojok-berita .content h3 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 800;
+    font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+    position: absolute;
+    left: 35px;
+    top: 31px;
+    width: 173px;
+    height: 53px;
+    flex-direction: column;
+}
+
+#pojok-berita .content p {
+    color: #fff;
+    font-size: 10px;
+    font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+    position: absolute;
+    left: 35px;
+    top: 81px;
+    width: 213px;
+    height: 55px;
+    flex-direction: column;
+}
+
+#pojok-berita .content .details {
+    position: absolute;
+    left: 32px;
+    top: 146px;
+    width: 131px;
+    height: 36px;
+    border-radius: 30px;
+    background-image: linear-gradient(105deg, #fecc2aff 0%, #faf2a1ff 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+#pojok-berita .content .details a {
+    color: #000;
+    font-size: 18px;
+    font-weight: 800;
+    font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+    position: absolute;
+    left: 34px;
+    top: 5px;
+    width: 78px;
+    height: 23.1538px;
+    flex-direction: column;
+}
+
+#pojok-berita .berita-card img {
+    position: absolute;
+    left: -3px;
+    top: -1px;
+    width: 306px;
+    height: 292px;
+    border-radius: 10px 10px 0 0;
+}
+
+#pojok-berita .berita-card1 img {
+    position: absolute;
+    left: -3px;
+    top: -1px;
+    width: 306px;
+    height: 292px;
+    border-radius: 10px 10px 0 0;
+}
+#pojok-berita .berita-card2 img {
+    position: absolute;
+    left: -3px;
+    top: -1px;
+    width: 306px;
+    height: 292px;
+    border-radius: 10px 10px 0 0;
+}
+#pojok-berita .berita-card3 img {
+    position: absolute;
+    left: -3px;
+    top: -1px;
+    width: 306px;
+    height: 292px;
+    border-radius: 10px 10px 0 0;
+}
+
+#pojok-berita .berita-card:hover {
+    transform: scale(1.02);
+}
+#pojok-berita .berita-card1:hover {
+    transform: scale(1.02);
+}
+#pojok-berita .berita-card2:hover {
+    transform: scale(1.02);
+}
+#pojok-berita .berita-card3:hover {
+    transform: scale(1.02);
+}
 /*--------------------------------------------------------------
 # Birokrasi Terkini Section
 --------------------------------------------------------------*/

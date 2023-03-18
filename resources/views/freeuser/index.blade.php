@@ -14,27 +14,17 @@
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a href="/beranda" class="active">Beranda</a></li>
-                    <li><a href="about.html">Tentang Kami</a></li>
+                    <li><a href="/about">Tentang Kami</a></li>
                     <li><a href="profil.html">Profil</a></li>
-                    <li><a href="berita.html">Pojok Berita</a></li>
+                    <li><a href="/berita">Pojok Berita</a></li>
                     <li><a href="majalah.html">E-Majalah</a></li>
                     <li><a href="birokrasi.html">Birokrasi Terkini</a></li>
                     <li class="dropdown"><a href="#"><span>BEM APPS</span> <i
                                 class="bi bi-chevron-down dropdown-indicator"></i></a>
                         <ul>
-                            <li><a href="#">Drop Down 1</a></li>
-                            <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i
-                                        class="bi bi-chevron-down dropdown-indicator"></i></a>
-                                <ul>
-                                    <li><a href="#">Deep Drop Down 1</a></li>
-                                    <li><a href="#">Deep Drop Down 2</a></li>
-                                    <li><a href="#">Deep Drop Down 3</a></li>
-                                    <li><a href="#">Deep Drop Down 4</a></li>
-                                    <li><a href="#">Deep Drop Down 5</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#">Drop Down 2</a></li>
-                            <li><a href="#">Drop Down 3</a></li>
+                            <li><a href="#">FLC</a></li>
+                            <li><a href="#">GASPOL</a></li>
+                            <li><a href="#">Shortlink</a></li>
                             <li><a href="#">Drop Down 4</a></li>
                         </ul>
                     </li>
@@ -92,20 +82,65 @@
         <section id="pojok-berita" class="pojok-berita">
             <div class="container" data-aos="zoom-out">
                 <div class=" row justify-content-center">
-
+                    <div class="Ornament1" data-aos="fade-up" data-aos-delay="100">
+                        <img src="img/Ornament.png" alt="" width="110" height="110">
+                    </div>
+                    <div class=" text-center font-weight-bold judul-birokrasi">
+                        <h4>POJOK BERITA</h4>
+                        <div class=" justify-content-center">
+                            <img src="img/BarPojok(2).png" height="10">
+                        </div>
+                    </div>
+                    <div class="justify-content-center" class="card">
+                        <div class=" col-lg-3 berita-card">
+                            <img src="img/card-image.png" alt="">
+                            <div class=" content">
+                                <h3>Fasilkom Esport Competition</h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et duis nibh velit ultrices
+                                    adipiscing id diam.</p>
+                                <div class="details">
+                                    <a href="">Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class=" col-lg-3 berita-card1">
+                            <img src="img/card-image.png" alt="">
+                            <div class=" content">
+                                <h3>Fasilkom Esport Competition</h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et duis nibh velit ultrices
+                                    adipiscing id diam.</p>
+                                <div class="details">
+                                    <a href="">Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class=" col-lg-3 berita-card2">
+                            <img src="img/card-image.png" alt="">
+                            <div class=" content">
+                                <h3>Fasilkom Esport Competition</h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et duis nibh velit ultrices
+                                    adipiscing id diam.</p>
+                                <div class="details">
+                                    <a href="">Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class=" col-lg-3 berita-card3">
+                            <img src="img/card-image.png" alt="">
+                            <div class=" content">
+                                <h3>Fasilkom Esport Competition</h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et duis nibh velit ultrices
+                                    adipiscing id diam.</p>
+                                <div class="details">
+                                    <a href="">Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="Ornament" data-aos="fade-up" data-aos-delay="100">
+                        <img src="img/Ornament.png" alt="" width="110" height="110">
+                    </div>
                 </div>
-            </div>
-            <div class="Ornament1" data-aos="fade-up" data-aos-delay="100">
-                <img src="img/Ornament.png" alt="" width="110" height="110">
-            </div>
-            <div class=" text-center font-weight-bold judul-birokrasi">
-                <h4>POJOK BERITA</h4>
-                <div class=" justify-content-center">
-                    <img src="img/BarPojok(2).png" height="10">
-                </div>
-            </div>
-            <div class="Ornament" data-aos="fade-up" data-aos-delay="100">
-                <img src="img/Ornament.png" alt="" width="110" height="110">
             </div>
         </section>
         <!-- End Pojok Berita Section -->

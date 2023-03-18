@@ -15,28 +15,18 @@
                 <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
                 <nav id="navbar" class="navbar">
                     <ul>
-                        <li><a href="index.html">Beranda</a></li>
-                        <li><a href="about.html" class="active">Tentang Kami</a></li>
+                        <li><a href="/beranda">Beranda</a></li>
+                        <li><a href="/about" class="active">Tentang Kami</a></li>
                         <li><a href="profil.html">Profil</a></li>
-                        <li><a href="berita.html">Pojok Berita</a></li>
+                        <li><a href="/berita">Pojok Berita</a></li>
                         <li><a href="majalah.html">E-Majalah</a></li>
                         <li><a href="birokrasi.html">Birokrasi Terkini</a></li>
                         <li class="dropdown"><a href="#"><span>BEM APPS</span> <i
                                     class="bi bi-chevron-down dropdown-indicator"></i></a>
                             <ul>
-                                <li><a href="#">Drop Down 1</a></li>
-                                <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i
-                                            class="bi bi-chevron-down dropdown-indicator"></i></a>
-                                    <ul>
-                                        <li><a href="#">Deep Drop Down 1</a></li>
-                                        <li><a href="#">Deep Drop Down 2</a></li>
-                                        <li><a href="#">Deep Drop Down 3</a></li>
-                                        <li><a href="#">Deep Drop Down 4</a></li>
-                                        <li><a href="#">Deep Drop Down 5</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Drop Down 2</a></li>
-                                <li><a href="#">Drop Down 3</a></li>
+                                <li><a href="#">FLC</a></li>
+                                <li><a href="#">GASPOL</a></li>
+                                <li><a href="#">Shortlink</a></li>
                                 <li><a href="#">Drop Down 4</a></li>
                             </ul>
                         </li>
