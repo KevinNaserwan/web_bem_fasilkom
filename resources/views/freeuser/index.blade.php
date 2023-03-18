@@ -92,8 +92,8 @@
                         </div>
                     </div>
                     <div class="justify-content-center" class="card">
-                        <div class=" col-lg-3 berita-card">
-                            <img src="img/card-image.png" alt="">
+                        <div class=" col-lg-3 col-md-6 berita-card">
+                            <a href=""><img src="img/card-image.png" alt=""></a>
                             <div class=" content">
                                 <h3>Fasilkom Esport Competition</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et duis nibh velit ultrices
@@ -103,8 +103,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class=" col-lg-3 berita-card1">
-                            <img src="img/card-image.png" alt="">
+                        <div class=" col-lg-3 col-md-6 berita-card1">
+                            <a href=""><img src="img/card-image.png" alt=""></a>
                             <div class=" content">
                                 <h3>Fasilkom Esport Competition</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et duis nibh velit ultrices
@@ -114,8 +114,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class=" col-lg-3 berita-card2">
-                            <img src="img/card-image.png" alt="">
+                        <div class=" col-lg-3 col-md-6 berita-card2">
+                            <a href=""><img src="img/card-image.png" alt=""></a>
                             <div class=" content">
                                 <h3>Fasilkom Esport Competition</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et duis nibh velit ultrices
@@ -125,8 +125,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class=" col-lg-3 berita-card3">
-                            <img src="img/card-image.png" alt="">
+                        <div class=" col-lg-3 col-md-6 berita-card3">
+                            <a href=""><img src="img/card-image.png" alt=""></a>
                             <div class=" content">
                                 <h3>Fasilkom Esport Competition</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et duis nibh velit ultrices
@@ -150,16 +150,29 @@
             <div class="container" data-aos="zoom-out">
                 <div class=" row justify-content-center">
                     <!-- Slider -->
-                    <div class="col-lg-6 col-md-12 text-center mt-5 jurusan row" data-aos="fade-up" data-aos-delay="100">
-                        <div class=" col-lg-6 col-md-6 text-center">
-                            <img src="img/gambar-birokrasi.png" alt="" width="50" height="50">
+                    <div class="container carousel">
+                        <div class="slide active">
+                            <img src="img/gambar-birokrasi.png">
                         </div>
-                        <div class=" col-lg-6 col-md-6 text-center">
-                            <img src="img/gambar-birokrasi.png" alt="" width="50" height="50">
+                        <div class=" slide next">
+                            <img src="img/gambar-birokrasi.png">
+                        </div>
+                        <div class="slide">
+                            <img src="img/gambar-birokrasi.png">
+                        </div>
+                        <div class="slide">
+                            <img src="img/gambar-birokrasi.png">
+                        </div>
+                        <div class="slide prev">
+                            <img src="img/gambar-birokrasi.png">
+                        </div>
+                        <div class="button-container">
+                            <div class="button" id="left"><i class="fas fa-angle-left"></i></div>
+                            <div class="button" id="right"><i class="fas fa-angle-right"></i></div>
                         </div>
                     </div>
                     <!-- End Slider -->
-                    <div class="col-lg-6 col-md-12 text-center mt-5 jurusan" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-6 col-md-12 text-center mt-5 birokrasi" data-aos="fade-up" data-aos-delay="100">
                         <div class=" text-center font-weight-bold judul-birokrasi">
                             <h4>Birokrasi Terkini</h4>
                             <div class=" justify-content-center">

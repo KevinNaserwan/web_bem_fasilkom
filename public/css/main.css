@@ -587,7 +587,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action {
-    background: linear-gradient(90deg, #fecc2a 81.43%, #faf2a1 126.88%);
+    background: linear-gradient(90deg, #dbb027 81.43%, #b7b06f 126.88%);
     background-size: cover;
     margin-top: 150px;
     padding: 50px 20px 0px 10px;
@@ -647,7 +647,7 @@ section {
 }
 
 .call-to-action .cta-btn:hover {
-    background-color: #23c483;
+    background-color: #22162b;
     color: #fff;
     transform: translateY(-7px);
 }
@@ -745,13 +745,13 @@ section {
     font-size: 24px;
     font-weight: 800;
     letter-spacing: 0.1em;
-    color: #fecc2a;
+    color: #ebc754;
 }
 
 .hero h3 {
     font-size: 34px;
     font-weight: 800;
-    color: #fecc2a;
+    color: #ebc754;
 }
 
 .hero img {
@@ -1432,7 +1432,7 @@ section {
 --------------------------------------------------------------*/
 #pojok-berita .judul-birokrasi h4 {
     font-weight: 700;
-    color: #fecc2a;
+    color: #ebc754;
     font-size: 35px;
 }
 
@@ -1602,8 +1602,106 @@ section {
 /*--------------------------------------------------------------
 # Birokrasi Terkini Section
 --------------------------------------------------------------*/
+
 .berita-terkini .judul-birokrasi h4 {
     font-size: 50px;
     font-weight: 700;
     color: #265d4f;
+}
+
+.berita-terkini .carousel {
+    position: absolute;
+    margin-top: 123px;
+    top: 50%;
+    left: 22%;
+    transform: translate(-50%, -50%);
+    user-select: none;
+}
+
+.berita-terkini .carousel .slide {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    overflow: hidden;
+    transition: all 300ms ease-in-out;
+    z-index: -1;
+    opacity: 0;
+    background-color: #201f15;
+}
+
+.berita-terkini .carousel .slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.berita-terkini .carousel .slide.active {
+    opacity: 1;
+    z-index: 99;
+    box-shadow: 0px 0px 105px -35px rgba(0, 0, 0, 0.75);
+}
+
+.berita-terkini .carousel .slide.prev {
+    z-index: 2;
+    opacity: 0.25;
+    transform: translate(-125%, -50%);
+}
+
+.berita-terkini .carousel .slide.next {
+    z-index: 2;
+    opacity: 0.25;
+    transform: translate(25%, -50%);
+}
+
+.berita-terkini .carousel .button-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 275px;
+    z-index: 100;
+}
+
+.berita-terkini .carousel .button-container .button {
+    color: #fff;
+    font-size: 32px;
+    cursor: pointer;
+    position: relative;
+    opacity: 0.75;
+    transition: all 300ms ease-in-out;
+}
+
+.berita-terkini .carousel .button-container .button:hover {
+    opacity: 1;
+}
+
+.berita-terkini .carousel .button-container .button:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 1);
+    border-radius: 50%;
+    z-index: -99;
+}
+
+.berita-terkini .carousel .button-container .button:nth-child(1) {
+    float: left;
+}
+
+.berita-terkini .carousel .button-container .button:nth-child(2) {
+    float: right;
+}
+
+.berita-terkini .birokrasi {
+    position: absolute;
+    padding-top: 33px;
+    margin-left: 708px;
 }
