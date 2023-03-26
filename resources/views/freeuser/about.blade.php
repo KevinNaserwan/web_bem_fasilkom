@@ -15,8 +15,8 @@
                 <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
                 <nav id="navbar" class="navbar">
                     <ul>
-                        <li><a href="index.html">Beranda</a></li>
-                        <li><a href="about.html" class="active">Tentang Kami</a></li>
+                        <li><a href="/beranda">Beranda</a></li>
+                        <li><a href="/about" class="active">Tentang Kami</a></li>
                         <li><a href="profil.html">Profil</a></li>
                         <li><a href="berita.html">Pojok Berita</a></li>
                         <li><a href="majalah.html">E-Majalah</a></li>
