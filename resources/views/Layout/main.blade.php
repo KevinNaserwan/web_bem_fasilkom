@@ -10,8 +10,8 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="img/bemc.svg" rel="icon">
-    <link href="img/bemc.svg" rel="apple-touch-icon">
+    <link href="img/logobem.png" rel="icon">
+    <link href="img/logobem.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -54,12 +54,12 @@
 
     <!-- Fav and touch icons -->
     <!-- Favicons -->
-    <link href="img/bemc.svg" rel="icon">
-    <link href="img/bemc.svg rel=" apple-touch-icon">
+    <link href="img/logobem.png" rel="icon">
+    <link href="img/logobem.png" rel=" apple-touch-icon">
     {{-- 
     <!-- Favicons -->
-    <link href="{{ 'img/bemc.svg' }}" rel="icon">
-    <link href="{{ 'img/bemc.svg' }}" rel="apple-touch-icon">
+    <link href="{{ 'img/logobem.png' }}" rel="icon">
+    <link href="{{ 'img/logobem.png' }}" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

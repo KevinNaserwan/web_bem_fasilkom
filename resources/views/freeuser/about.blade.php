@@ -8,7 +8,7 @@
 
                 <a href="index.html" class="logo d-flex align-items-center">
                     <!-- Uncomment the line below if you also wish to use an image logo -->
-                    <img src="img/bemc.svg" alt="">
+                    <img src="img/logobem.png" alt="">
                 </a>
 
                 <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
