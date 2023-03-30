@@ -47,149 +47,54 @@
         </header>
         <!-- end header -->
 
-        <!-- section featured -->
-        <section id="featured">
-
-            <!-- slideshow start here -->
-
-            <div class="camera_wrap" id="camera-slide">
-
-                <!-- slide 1 here -->
-                <div data-src="img/slides/camera/slide1/img1.jpg">
-                    <div class="camera_caption fadeFromLeft">
-                        <div class="container">
-                            <div class="row">
-                                <div class="span6">
-                                    <h2 class="animated fadeInDown"><strong>Tentang <span class="colored">BEM KM Fasilkom
-                                                UNSRI</span></strong></h2>
-                                    <p class="animated fadeInUp"> BEM KM Fasilkom Unsri adalah Organisasi utama yang ada di
-                                        Fasilkom Unsri yang menjadi wadah aspirasi mahasiswa Fasilkom Unsri</p>
-                                    <a href="#struktur" class="btn btn-success btn-large animated fadeInUp">
-                                        <i class="icon-link"></i> Read more
-                                    </a>
-
-                                </div>
-                                <div class="span6">
-                                    <img src="img/slides/camera/slide1/screen.png" alt=""
-                                        class="animated bounceInDown delay1" />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- slide 2 here -->
-                <div data-src="img/slides/camera/slide2/img1.jpg">
-                    <div class="camera_caption fadeFromLeft">
-                        <div class="container">
-                            <div class="row">
-                                <div class="span6">
-                                    <img src="img/slides/camera/slide2/iMac.png" alt="" />
-                                </div>
-                                <div class="span6">
-                                    <h2 class="animated fadeInDown"><strong>Put your <span class="colored">Opt in
-                                                form</span></strong></h2>
-                                    <p class="animated fadeInUp"> Vim porro dicam reprehendunt te, populo quodsi dissentiet
-                                        cum ad. Ne natum deseruisse vis. Iisque deseruisse sententiae mel ne, dolores
-                                        appetere vim ut. Sea no tamquam reprimique.</p>
-
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- slide 3 here -->
-                <div data-src="img/slides/camera/slide2/img1.jpg">
-                    <div class="camera_caption fadeFromLeft">
-                        <div class="container">
-                            <div class="row">
-                                <div class="span12 aligncenter">
-                                    <h2 class="animated fadeInDown"><strong><span class="colored">Responsive</span> and
-                                            <span class="colored">cross broswer</span> compatibility</strong></h2>
-                                    <p class="animated fadeInUp">Pellentesque habitant morbi tristique senectus et netus et
-                                        malesuada</p>
-                                    <img src="img/slides/camera/slide3/browsers.png" alt=""
-                                        class="animated bounceInDown delay1" />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
+        <!-- owlcarousel kabinet start -->
+        <div class="owl-carousel owl-theme" style="padding-top: 9rem;">
+            <div class="item" data-merge="3">
+                <img src="img/cardInti.png" class="card-img-top" alt="...">
             </div>
+            <div class="item" data-merge="3">
+                <img src="img/cardInti.png" class="card-img-top" alt="...">
+            </div>
+            <div class="item" data-merge="3">
+                <img src="img/cardInti.png" class="card-img-top" alt="...">
+            </div>
+        </div>
+        <!-- owlcarousel end -->
 
-            <!-- slideshow end here -->
-
-        </section>
-        <!-- /section -->
+        <!-- struktur inti -->
         <section id="struktur">
-            <div id="container">
-                <div class="row">
-
-
-
-                    <div id="struktur" class="span6">
-                        <h4 style="text-align:center" style="font-weight: bold;">Struktural
-                            BEM</h4>
-
-
-                        <div class="tabbable tabs-left">
-
-                            <div class="tab-content">
-                                <div class="tab-pane active" id="topone">
-                                    <p>
-                                        <strong>Augue iriure</strong> dolorum per ex, ne iisque ornatus veritus duo. Ex
-                                        nobis integre lucilius sit, pri ea falli ludus appareat. Eum quodsi fuisset id,
-                                        nostro patrioque qui id. Nominati eloquentiam in mea.
-                                    </p>
-                                    <p>
-                                        <strong>Augue iriure </strong>No eum sanctus vituperata reformidans, dicant
-                                        abhorreant ut pro. Duo id enim iisque praesent, amet intellegat per et, solet
-                                        referrentur eum et. Lorem ipsum dolor sit amet, populo commodo utroque ad nam, ei
-                                        sit eruditi antiopam urbanitas. Pri no habeo
-                                        debitis, aperiam perpetua id pro, meis etiam ne vix.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- end tab -->
-
-                    </div>
-
-                    <div class="span6">
-                        <h4 style="text-align:center" style="font-weight: bold;">Struktural
-                            Badan Kesekretariatan</h4>
-
-
-                        <div class="tabbable tabs-left">
-
-                            <div class="tab-content">
-                                <div class="tab-pane active" id="topone">
-                                    <p>
-                                        <strong>Augue iriure</strong> dolorum per ex, ne iisque ornatus veritus duo. Ex
-                                        nobis integre lucilius sit, pri ea falli ludus appareat. Eum quodsi fuisset id,
-                                        nostro patrioque qui id. Nominati eloquentiam in mea.
-                                    </p>
-                                    <p>
-                                        <strong>Augue iriure </strong>No eum sanctus vituperata reformidans, dicant
-                                        abhorreant ut pro. Duo id enim iisque praesent, amet intellegat per et, solet
-                                        referrentur eum et. Lorem ipsum dolor sit amet, populo commodo utroque ad nam, ei
-                                        sit eruditi antiopam urbanitas. Pri no habeo
-                                        debitis, aperiam perpetua id pro, meis etiam ne vix.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- end tab -->
-
-                    </div>
-
+        <div class="container text-center">
+            <h3 style="text-align: center; color: #EBC754; font-weight: bold; text-decoration-line: underline;">INTI</h3>
+            <div class="row gx-5">
+                <div data-aos="fade-right" class="col">
+                    <img src="img/ketua.png" style="width: 100%; position: relative;" alt="">
+                </div>
+                <div data-aos="fade-left" class="col">
+                    <img src="img/wakilketua.png" style="width: 100%; position: relative;" alt="">
                 </div>
             </div>
+            <br>
+            <div class="row gx-5">
+                <div data-aos="fade-right" class="col">
+                    <img src="img/staffkhususketua.png" style="width: 100%;" alt="">
+                </div>
+                <div data-aos="fade-left" class="col">
+                    <img src="img/staffkhususwakilketua.png" style="width: 100%;" alt="">
+                </div>
+            </div>
+            <br>
+            <div class="row gx-5">
+                <div data-aos="fade-right" class="col">
+                    <img src="img/bendaharaumum.png" style="width: 100%;" alt="">
+                </div>
+                <div data-aos="fade-left" class="col">
+                    <img src="img/sekretarisumum.png" style="width: 100%;" alt="">
+                </div>
+            </div>
+        </div>
         </section>
-
+        <!-- end of struktur inti -->
+        
         <!-- ======= Footer ======= -->
         <footer id="footer" class="footer">
 
