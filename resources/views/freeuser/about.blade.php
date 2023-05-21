@@ -64,7 +64,9 @@
         <!-- struktur inti -->
         <section id="struktur">
         <div class="container text-center">
-            <h3 style="text-align: center; color: #EBC754; font-weight: bold; text-decoration-line: underline;">INTI</h3>
+            <div class="section-header">
+                <h2 style="text-align: center; color: #EBC754; font-weight: bold;">INTI</h2>
+            </div>      
             <div class="row gx-5">
                 <div data-aos="fade-right" class="col">
                     <img src="img/ketua.png" style="width: 100%; position: relative;" alt="">
@@ -95,6 +97,41 @@
         </section>
         <!-- end of struktur inti -->
         
+        <!-- bidang internal -->
+        <div class="section-header">
+            <h2 style="text-align: center; color: #EBC754; font-weight: bold;">BIDANG INTERNAL</h2>
+        </div>        
+        <img src="img/Card-Internal.png" alt="" style="width: 100%; padding-bottom: 3rem;">
+        <div class="container text-center">
+            <div class="row gx-5 py-5">
+                    <div data-aos="fade-right" class="col">
+                        <img src="img/koordinator_bidang.png" style="width: 100%;" alt="">
+                    </div>
+                    <div data-aos="fade-left" class="col">
+                        <img src="img/wakil_koor_bidang.png" style="width: 100%;" alt="">
+                    </div>
+            </div>
+            <div class="row gx-5">
+                <div class="col">
+                    <div class="section-header">
+                        <h2 style="text-align: center; color: #EBC754; font-weight: bold;">Dinas PPSDM</h2>
+                    </div>     
+                    <img class="my-5" src="img/anggota_ppsdm.png" style="width: 100%;" alt="">
+                    <br>
+                    <p style="font-weight: bold; text-align: left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare quam</p>
+                </div>
+                <div class="col">
+                    <div class="section-header">
+                        <h2 style="text-align: center; color: #EBC754; font-weight: bold;">Dinas Administrasi</h2>
+                    </div>    
+                    <img class="my-5" src="img/anggota_administrasi.png" style="width: 100%;" alt="">
+                    <p style="font-weight: bold; text-align: left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare quam</p>
+                </div>
+            </div>
+        </div>
+        <br>
+        <!-- end of bidang internal -->
+
         <!-- ======= Footer ======= -->
         <footer id="footer" class="footer">
 
