@@ -261,7 +261,7 @@
         <div class="section-header">
             <h2 style="text-align: center; color: #EBC754; font-weight: bold;">BIDANG MINAT DAN BAKAT</h2>
         </div>        
-        <img data-aos="fade-up" src="img/aboutUs/Card-medtek.png" alt="" style="width: 100%; padding-bottom: 3rem;">
+        <img data-aos="fade-up" src="img/aboutUs/card-minbat.png" alt="" style="width: 100%; padding-bottom: 3rem;">
         <div class="container text-center">
             <div class="row" style="padding-bottom: 2rem;">
                     <div data-aos="fade-right" class="col">
