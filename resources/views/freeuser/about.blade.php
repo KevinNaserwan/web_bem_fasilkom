@@ -136,7 +136,7 @@
                     </div>
             </div>
             <div class="row gx-5" style="padding-bottom: 2rem;">
-                <div class="col">
+                <div class="col-sm-6 col-12">
                     <div class="section-header" style="padding: none;">
                         <h2 style="text-align: center; color: #EBC754; font-weight: bold;">Dinas PPSDM</h2>
                     </div>     
@@ -144,7 +144,7 @@
                     <br>
                     <p style="font-weight: bold; text-align: left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare quam</p>
                 </div>
-                <div class="col">
+                <div class="col-sm-6 col-12">
                     <div class="section-header" style="padding: none;">
                         <h2 style="text-align: center; color: #EBC754; font-weight: bold;">Dinas Administrasi</h2>
                     </div>    
@@ -170,7 +170,7 @@
                     </div>
             </div>
             <div class="row gx-5" style="padding-bottom: 2rem;">
-                <div class="col">
+                <div class="col-sm-6 col-12">
                     <div class="section-header" style="padding: none;">
                         <h2 style="text-align: center; color: #EBC754; font-weight: bold;">Dinas KASTRAD</h2>
                     </div>     
@@ -178,7 +178,7 @@
                     <br>
                     <p style="font-weight: bold; text-align: left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare quam</p>
                 </div>
-                <div class="col">
+                <div class="col-sm-6 col-12">
                     <div class="section-header" style="padding: none;">
                         <h2 style="text-align: center; color: #EBC754; font-weight: bold;">Dinas Sosmasling</h2>
                     </div>    
@@ -204,7 +204,7 @@
                     </div>
             </div>
             <div class="row gx-5" style="padding-bottom: 2rem;">
-                <div class="col">
+                <div class="col-sm-6 col-12">
                     <div class="section-header" style="padding: none;">
                         <h2 style="text-align: center; color: #EBC754; font-weight: bold;">Dinas Relasi</h2>
                     </div>     
@@ -212,7 +212,7 @@
                     <br>
                     <p style="font-weight: bold; text-align: left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare quam</p>
                 </div>
-                <div class="col">
+                <div class="col-sm-6 col-12">
                     <div class="section-header" style="padding: none;">
                         <h2 style="text-align: center; color: #EBC754; font-weight: bold;">Dinas Bismit</h2>
                     </div>    
@@ -238,7 +238,7 @@
                     </div>
             </div>
             <div class="row gx-5" style="padding-bottom: 2rem;">
-                <div class="col">
+                <div class="col-sm-6 col-12">
                     <div class="section-header" style="padding: none;">
                         <h2 style="text-align: center; color: #EBC754; font-weight: bold;">Dinas MEDINFO</h2>
                     </div>     
@@ -246,7 +246,7 @@
                     <br>
                     <p style="font-weight: bold; text-align: left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare quam</p>
                 </div>
-                <div class="col">
+                <div class="col-sm-6 col-12">
                     <div class="section-header" style="padding: none;">
                         <h2 style="text-align: center; color: #EBC754; font-weight: bold;">Dinas RISTEK</h2>
                     </div>    
@@ -272,7 +272,7 @@
                     </div>
             </div>
             <div class="row gx-5" style="padding-bottom: 2rem;">
-                <div class="col">
+                <div class="col-sm-6 col-12">
                     <div class="section-header" style="padding: none;">
                         <h2 style="text-align: center; color: #EBC754; font-weight: bold;">Dinas Olah Raga</h2>
                     </div>     
@@ -280,7 +280,7 @@
                     <br>
                     <p style="font-weight: bold; text-align: left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare quam</p>
                 </div>
-                <div class="col">
+                <div class="col-sm-6 col-12">
                     <div class="section-header" style="padding: none;">
                         <h2 style="text-align: center; color: #EBC754; font-weight: bold;">Dinas Seni Budaya</h2>
                     </div>    
@@ -347,7 +347,7 @@
 
 
 
-        <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i
+        <a href="#" class="scroll-top d-flex align-items-center justify-content-center" style="background: #EBC754;"><i
                 class="bi bi-arrow-up-short"></i></a>
 
         <div id="preloader"></div>
