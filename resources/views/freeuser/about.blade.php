@@ -319,10 +319,10 @@
                     <div class="col footer-contact text-center text-md-start">
                         <h4>Follow For More</h4>
                         <div class="social-links d-flex mt-4">
-                            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
                             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
                             <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
                             <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                            <a href="#" class="line"><i class="bi bi-line"></i></a>
                         </div>
                     </div>
 
